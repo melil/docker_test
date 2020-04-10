@@ -1,6 +1,6 @@
 FROM node:latest
 
-COPY ./clusmy-bird /app/
+COPY ./clumsy-bird /app/
 
 WORKDIR /app
 
